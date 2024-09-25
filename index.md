@@ -1,6 +1,6 @@
 # Liza Lutzker, MPH
 
-![Image](/Users/liza/Desktop/image_50733313.JPG)
+![Image](./image_50733313.JPG)
 
 I currently work as a Research Data Analyst at the UC Berkeley Safe 
 Transportation Researcher and Education Center (SafeTREC) and am also a 
