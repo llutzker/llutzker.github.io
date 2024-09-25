@@ -2,7 +2,7 @@
 
 <img 
 src="https://github.com/llutzker/llutzker.github.io/blob/main/image_50733313.JPG" 
-alt="Liza Lutzker" width=200/>
+alt="Liza Lutzker" width=400 />
 
 I currently work as a Research Data Analyst at the UC Berkeley Safe 
 Transportation Researcher and Education Center (SafeTREC) and am also a 
