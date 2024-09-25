@@ -1,7 +1,6 @@
 # Liza Lutzker, MPH
 
-<img 
-src="https://github.com/llutzker/llutzker.github.io/blob/main/image_50733313.JPG" 
+<img src="https://github.com/llutzker/llutzker.github.io/blob/main/image_50733313.JPG" 
 alt="Liza Lutzker" wdith="250" />
 
 
